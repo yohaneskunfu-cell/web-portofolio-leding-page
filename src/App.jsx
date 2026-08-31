@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { projectsData } from "./data/projects";
+import { projectsData } from "./data/Projects";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
 
